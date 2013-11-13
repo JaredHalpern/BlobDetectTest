@@ -8,7 +8,7 @@ SimpleOpenNI context;
 
 PImage userImage, blobs;
 BlobDetection blobDetection;
-PolygonBlob poly = new PolygonBlob();
+
 
 // the kinect's dimensions to be used later on for calculations
 int kinectWidth = 640;
